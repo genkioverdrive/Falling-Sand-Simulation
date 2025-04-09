@@ -2,4 +2,4 @@
 Falling Sand Simulation in python using pygame
 
 ## To be implemented:
-[ ] - Gravity accuracy
+[] - Gravity accuracy
